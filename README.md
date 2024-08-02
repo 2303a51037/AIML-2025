@@ -1,6 +1,6 @@
 # AIML-2025-2303A51037
-#RAMA SHIVANAND
-#Artificial Intelligence and Machine Learning Lab Instructions Sheets
+# RAMA SHIVANAND
+# Artificial Intelligence and Machine Learning Lab Instructions Sheets
 1. [Lab 01](https://github.com/2303a51037/AIML-2025/blob/main/AIML_A1.pdf):Introduction to Python Libraries-Numpy
 2. [Lab 02]():Introduction to Python Libraries-Numpy
 3. [Lab 03]():Introduction to Python Libraries-Numpy
@@ -13,7 +13,7 @@
 10. [Lab 10]():Introduction to Python Libraries-Numpy
 
 
-#Artificial Intelligence and Machine Learning Lab Jupyter Notebooks
+# Artificial Intelligence and Machine Learning Lab Jupyter Notebooks
 1. [Lab 01]():Introduction to Python Libraries-Numpy
 2. [Lab 02]():Introduction to Python Libraries-Numpy
 3. [Lab 03]():Introduction to Python Libraries-Numpy
